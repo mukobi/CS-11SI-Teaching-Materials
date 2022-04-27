@@ -548,7 +548,7 @@
                     "id": "99cb7ad1-51ec-4611-af68-92a85f2c17d6",
                     "path": "<XRController>{LeftHand}/Primary2DAxis",
                     "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
-                    "processors": "",
+                    "processors": "StickDeadzone",
                     "groups": "Noncontinuous Move",
                     "action": "Turn",
                     "isComposite": false,
